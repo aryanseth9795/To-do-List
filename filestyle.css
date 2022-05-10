@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Bangers', cursive;
+    font-weight: bolder;
+}
+
+header {
+    background: #000;
+}
+
+
+.table {
+    color: rgb(0, 0, 0);
+    font-size: large;
+    text-decoration: solid;
+    opacity: 15;
+    font-weight: 400;
+}
+
+#foot {
+
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 25%;
+
+}
+
+#print {
+    text-align: center;
+    color: rgb(15, 5, 5);
+    margin: auto;
+}
+
+#pr {
+    color: rgb(22, 216, 255);
+    border: 5px solid black;
+    border-radius: 50px;
+    align-items: center;
+    width: 40%;
+    font-weight: bolder;
+}
+
+.form-control {
+    background: rgb(0, 0, 0);
+    color: white;
+    opacity: 0.8;
+}
+
+#bg01 {
+    height: 200%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: .4;
+}
+
+#item {
+    margin-bottom: 250px;
+}
+#copy{
+    margin-top: 35px;
+}
